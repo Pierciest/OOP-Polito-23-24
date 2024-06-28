@@ -1,4 +1,5 @@
-Lab5 is uploaded
+Lab6 is uploaded.\n
+Lab5 is updated and confirmed.
 LAB4 is updated and confirmed.
 LAB3 is updated and confirmed.
 LAB2 is updated and confirmed.
