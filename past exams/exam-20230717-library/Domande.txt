@@ -1,0 +1,32 @@
+1. Quando si passa un parametro di tipo String ad un metodo:
+[ ] A1.1 - si passa una copia della stringa
+[ ] A1.2 - si passa un riferimento alla stringa
+[ ] A1.3 - il metodo può svolgere delle operazioni sull'oggetto originale
+[ ] A1.4 - il metodo puà modificare la stringa originale
+[ ] A1.5 - il metodo può svolgere delle operazioni sull'oggetto originale
+
+
+2. Lo scopo dell'operatore `?` è:
+[ ] A2.1 - definire un'espressione condizionale
+[ ] A2.2 - definire una assegnazione inversa
+[ ] A2.3 - definire una lambda expression
+[ ] A2.4 - definire un *method reference*
+[ ] A2.5 - estendere una classe
+
+
+3. Quando un metodo lancia un'eccezione, può essere testato
+[ ] A3.1 - solo tramite un metodo che propaga l'eccezione
+[ ] A3.2 - usando l'annotazione `@Exception`
+[ ] A3.3 - usando il parametro di annotazione `expected`
+[ ] A3.4 - usando il metodo `assertThrows()`
+[ ] A3.5 - non usando JUnit
+
+
+4. Quali sono vantaggi dei metodi agili?
+[ ] A4.1 - Permettere uno stretto controllo del processo
+[ ] A4.2 - Richiedere una quantità ridotta di test
+[ ] A4.3 - Richiedere una quantità ridotta di requisiti
+[ ] A4.4 - Essere ben predisposti al cambiamento
+[ ] A4.5 - Adottare iterazioni molto lunghe
+
+Per selezionare una risposta inserire una "X" tra le "[ ]" --> "[X]"

@@ -1,0 +1,32 @@
+1. When you pass a parameter of type String to a method:
+[ ] A1.1 - passes a copy of the string
+[ ] A1.2 - you pass a reference to the string
+[ ] A1.3 - the method can perform operations on the original string
+[ ] A1.4 - the method can modify the original string
+[ ] A1.5 - the method cannot perform any operation on the original string
+
+
+2. The purpose of the operator `?` is to:
+[ ] A2.1 - define a conditional expression
+[ ] A2.2 - define a reverse assignment
+[ ] A2.3 - define a lambda expression
+[ ] A2.4 - define *method reference*
+[ ] A2.5 - extend a class
+
+
+3. When a method throws an exception it can be tested
+[ ] A3.1 - only in a method that propagates the exception
+[ ] A3.2 - using the `@Exception` annotation
+[ ] A3.3 - using the `expected` annotation parameter
+[ ] A3.4 - using the `assertThrows()` method
+[ ] A3.5 - not in JUnit
+
+
+4. What is an advantage of agile development methods?
+[ ] A4.1 - Allow a strict control of process
+[ ] A4.2 - Require minimal amount of tests
+[ ] A4.3 - Require minimal amount of requirements
+[ ] A4.4 - Are well prepared for change
+[ ] A4.5 - Use very long iterations 
+
+To select an answer place a "X" in the "[ ]" --> "[X]"

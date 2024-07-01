@@ -1,0 +1,30 @@
+1. Which among the following statements are valid for a Java abstract class?
+[ ] A1.1 - Can contain abstract methods
+[ ] A1.2 - Can contain abstract attributes
+[ ] A1.3 - All contained method must be abstract
+[ ] A1.4 - Can be instantiated as a normal class
+[ ] A1.5 - Cannot be instantiated
+
+
+2. What is the purpose of the operator `<>`?
+[ ] A2.1 - define a conditional expression
+[ ] A2.2 - define a reverse assignment
+[ ] A2.3 - define generic parameters using type inference
+[ ] A2.4 - define *method reference*
+[ ] A2.5 - extend a class
+
+3. What can be demonstrated with tests?
+[ ] A3.1 - Program quality
+[ ] A3.2 - Absence of defects
+[ ] A3.3 - Maintainability of program
+[ ] A3.4 - Presence of defects
+[ ] A3.5 - Complexity of program
+
+4. What is included in the top section of a UML class?
+[ ] A4.1 - Name of the class
+[ ] A4.2 - Implementation
+[ ] A4.3 - Interface
+[ ] A4.4 - Methods
+[ ] A4.5 - Attributes
+
+To select an answer place a "X" in the "[ ]" --> "[X]"

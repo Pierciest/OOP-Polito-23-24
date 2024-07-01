@@ -1,0 +1,32 @@
+
+1.  Quali di queste affermazioni sono valide per una classe astratta Java?
+[ ] A1.1 - Può contenere dei metodi astratti
+[ ] A1.2 - Può contenere degli attributi astratti
+[ ] A1.3 - Tutti i metodi contenuti devono essere astratti
+[ ] A1.4 - Può essere istanziata come una normale classe
+[ ] A1.5 - Non può essere istanziata
+
+
+2. A cosa serve l'operatore `<>`?
+[ ] A2.1 - a definire un'espressione condizionale
+[ ] A2.2 - a definire un'assegnazione inversa
+[ ] A2.3 - a definire parametri generici con un'inferenza di tipo
+[ ] A2.4 - a definire un *method reference*
+[ ] A2.5 - a estendere una classe
+
+
+3. Cosa puo' dimostrare un test?
+[ ] A3.1 - La qualita' del programma
+[ ] A3.2 - L'assenza di difetti nel programma
+[ ] A3.3 - La manutenibilita' del programma
+[ ] A3.4 - La presenza di difetti nel programma
+[ ] A3.5 - La complessita' del programma
+
+4. Cosa contiene la sezione superiore di una classe UML?
+[ ] A4.1 - Nome della classe
+[ ] A4.2 - Implementazione
+[ ] A4.3 - Interfacce
+[ ] A4.4 - Metodi
+[ ] A4.5 - Attributi
+
+Per selezionare una risposta inserire una "X" tra le "[ ]" --> "[X]"
